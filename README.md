@@ -3,8 +3,8 @@
 Cmd
 git clone https://github.com/KiranCip/Devil-Green-Tim
 
-cd Devil-Green-Tim
+cd Devil-Green
 
-python The Devil.py
+python TheDevil.py
 
 Done :3
